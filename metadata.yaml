@@ -1,0 +1,29 @@
+_repo: Tish-plays-the-game_70942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: ''
+gutenberg_issued: '2023-06-08'
+identifiers:
+  gutenberg: '70942'
+language: en
+pgterms:marc904: https://archive.org/details/tishplaysgame0000unse
+pgterms:marc905: 20230403184018rinehart
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Aaron Adrignola and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bP. F. Collier & Son Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tish plays the game
+url: http://www.gutenberg.org/ebooks/70942
